@@ -32,5 +32,6 @@
 
     <modules>
         <module>force-login</module>
+        <module>rest-signup</module>
     </modules>
 </project>
